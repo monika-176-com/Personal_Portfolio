@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img alt="Portfolio Preview" src="./Images/readme-img1.png" />
+  <img alt="Portfolio Preview" src="./Images/readme-img.png" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  <strong>Computer Science Undergraduate | Full Stack Developer | AI & Machine Learning Enthusiast</strong>
+  <strong>Computer Science Undergraduate | Full Stack Developer | Data Scientist & Machine Learning Enthusiast</strong>
 
 </div>
 
