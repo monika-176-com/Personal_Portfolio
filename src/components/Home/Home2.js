@@ -12,44 +12,51 @@ function Home2() {
             <h1 style={{ fontSize: "2.6em" }}>
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
+
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m <b className="purple">Jalla Monika</b>, a Computer Science
+              undergraduate at <b className="purple">SRM University-AP</b>{" "}
+              with a specialization in Data Science and Minor in Marketing passionate about building practical software solutions and
+              exploring Mern Stack Development and Machine Learning.
               <br />
               <br />
               I’m proficient in
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  Java, Python, C++, JavaScript, React, Node.js,{" "}
+                  MongoDB, MySQL, Machine Learning, and Data Science
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              , and I enjoy working across both frontend and backend
+              development.
               <br />
               <br />
-              My key areas of interest include developing
+              I have hands-on experience as a
+              <i>
+                <b className="purple"> Full Stack Developer Intern </b>
+              </i>
+              at <b className="purple">Exafluence</b>, where I worked on an
+              automated resume screening platform, Google OAuth integration,
+              resume parsing, and a real-time candidate tracking dashboard.
+              <br />
+              <br />
+              My key areas of interest include
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Full Stack Development, Machine
+                  Learning, and Data Science
                 </b>
               </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
-              <br />
-              <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              . I enjoy turning ideas into useful and user-focused
+              applications.
             </p>
           </Col>
+
           <Col md={4} className="myAvtar">
             <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+              <img src={myImg} className="img-fluid" alt="Jalla Monika" />
             </Tilt>
           </Col>
         </Row>
@@ -57,4 +64,5 @@ function Home2() {
     </Container>
   );
 }
+
 export default Home2;
